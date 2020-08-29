@@ -1,8 +1,8 @@
-<h1>Full Stack Web Developer Course</h1>
+<h1> Full Stack Web Developer Course </h1>
 
-Repositório com as atividades desenvolvidas durante o curso [Full Stack Web Developer](https://www.udemy.com/course/thecompletewebdeveloper/), criado por Kalob Taulien, na plataforma Udemy.
+Repository with the activities developed during the course [Full Stack Web Developer](https://www.udemy.com/course/thecompletewebdeveloper/), created by Kalob Taulien, on the Udemy platform.
 
-O curso tem o obejtivo de ensinar os seguintes tópicos:
+The course aims to teach the following topics:
 
 <ul>
   <li>HTML/HTML5</li>
