@@ -2,7 +2,7 @@
 
 Repositório com as atividades desenvolvidas durante o curso [Full Stack Web Developer](https://www.udemy.com/course/thecompletewebdeveloper/), criado por Kalob Taulien, na plataforma Udemy.
 
-O curso é dividido em seções e tem o obejtivo de ensinar o aluno/proporcionar uma visão sobre os seguintes tópicos:
+O curso é dividido em seções e tem o obejtivo de ensinar os seguintes tópicos:
 
 <ul>
   <li>HTML/HTML5</li>
