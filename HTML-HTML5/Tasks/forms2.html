@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    Olá esta é uma página de formulário.
+    <!-- Método GET é 100% não seguro-->
+    <form method="GET" action=""> <!-- Ação: para onde exatamente estamos enviando este formulário? - Método GET: "insere o que foi submetido direto na url-->
+        <input type="text" name="primeironome">
+        <input type="submit" value="Submit">
+    </form>
+    <!-- Método POST não mostra as variáveis na barra url-->
+    <form action="div.html" method="post">
+        <input type="text" name="primeironome">
+        <input type="submit" value="Submit">
+    </form>
+     
+</body>
+</html>
